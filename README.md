@@ -1,3 +1,5 @@
+# We did not write this and I lost the original fork. All credit to original author sans our changes
+
 eBay API client for Node.js
 ===============
 
